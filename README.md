@@ -1,4 +1,4 @@
-# Admission-Chance-API
+# Predicting Chances of Admission for Graduation using Machine Learning
 An end to end Machine Learning Project demo, which provides API to predict the chance of admission for graduate course.
 
 ### 
